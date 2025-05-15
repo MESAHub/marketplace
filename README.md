@@ -2,7 +2,7 @@
 
 The MESA Marketplace is a collection of
 educational resources, summer school links, inlists, and add-ons for the
-[Modules in Stellar Astrophysics (MESA)](https://mesastar.org) code.
+[Modules for Stellar Astrophysics (MESA)](https://mesastar.org) code.
 
 The MESA Marketplace was originally hosted on Frank Timmes' website https://cococubed.com
 and was migrated to GitHub Pages in 2025.
