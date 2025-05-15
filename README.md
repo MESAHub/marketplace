@@ -8,7 +8,7 @@ The MESA Marketplace was originally hosted on Frank Timmes' website https://coco
 and was migrated to GitHub Pages in 2025.
 
 We now have a
-[MESA Zenodo Community](https://zenodo.org/communities/mesa/records?q=&l=list&p=1&s=10)
+[MESA Zenodo Community](https://zenodo.org/communities/mesa/)
 as the preferred way of sharing MESA inlists and projects.
 Check it out! The inlists and add-ons shared shared on the Marketplace are generally from before 2022.
 But this website still serves as a useful collection of
@@ -20,7 +20,7 @@ educational videos, blog posts, and MESA summer schools.
 To build the website locally, make sure you have installed `hugo` (e.g. `brew install hugo`),
 and then do:
 
-```console
+```bash
 hugo server
 ```
 
@@ -33,7 +33,7 @@ with each update, through a GitHub action.
 
 To add new content, just do, e.g.
 
-```console
+```bash
 hugo new content content/guides/my-first-guide.md
 ```
 
