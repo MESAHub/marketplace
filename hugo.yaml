@@ -1,14 +1,16 @@
 baseURL: https://mesastar.org/
 languageCode: en-us
 title: MESA Marketplace
-copyright: "© [MESA Team](https://mesastar.org)"
+copyright: "© [The MESA Team](https://mesastar.org)"
 theme: hugo-PaperMod
 
 params:
   homeInfoParams:
     Title: "MESA Marketplace \U0001F44B"
     Content: >-
-      Welcome! The MESA Marketplace is a collection of educational resources and shared project files for the [Modules for Stellar Astrophysics (MESA)](https://mesastar.org) code. Also check out the [MESA Zenodo Community](https://zenodo.org/communities/mesa), the preferred place to share your project files.
+      Welcome! The MESA Marketplace is a collection of educational resources and shared project files for the [Modules for Stellar Astrophysics (MESA)](https://mesastar.org) code.
+      Also check out the [MESA Zenodo Community](https://zenodo.org/communities/mesa), the preferred place to share your project files.
+      This website contains summer school links as well as resources shared prior to 2022/Zenodo.
   socialIcons:
     - name: github
       title: View Source on Github

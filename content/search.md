@@ -1,5 +1,5 @@
 ---
 title: "Search"
-placeholder: Search website ...
+placeholder: Search MESA marketplace...
 layout: "search"
 ---
