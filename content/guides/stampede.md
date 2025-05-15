@@ -1,6 +1,7 @@
 ---
 title: "Stampede"
 date: 2019-03-01T10:49:28-04:00
+author: Matt A. Wood
 draft: false
 ---
 
@@ -136,4 +137,4 @@ squeue -u bjones
 **Author Note:** I'm quite new to this, so if there are errors, please let me know so I can update it.  
 
 This writeup was adapted from Josiah Schwab's "Installing and Running MESA on a Cluster":  
-[http://mesastar.org/marketplace/cluster01.html](http://mesastar.org/marketplace/cluster01.html)
+[http://mesastar.org/marketplace/guides/cluster01](http://mesastar.org/marketplace/guides/cluster01)
