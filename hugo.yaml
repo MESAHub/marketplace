@@ -1,0 +1,42 @@
+baseURL: https://mesastar.org/
+languageCode: en-us
+title: MESA Marketplace
+copyright: "© [MESA Team](https://mesastar.org)"
+theme: hugo-PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      Welcome to MESA Marketplace. A collection of educational resources and shared project files for the [Modules in Stellar Astrophysics (MESA)](https://mesastar.org) code. Also check out the [MESA Zenodo Community](https://zenodo.org/communities/mesa/records?q=&l=list&p=1&s=10), the preferred place to share your project files.
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/MESAHub/mesa"
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: addons
+    name: Add-ons
+    url: addons/
+    weight: 20
+  - identifier: inlists
+    name: Inlists
+    url: inlists/
+    weight: 30
+  - identifier: education
+    name: Education
+    url: education/
+    weight: 40
+  - identifier: guides
+    name: Guides
+    url: guides/
+    weight: 50
+  - name: search
+    name: Search
+    url: search/
+    weight: 60

@@ -1,5 +1,0 @@
-theme = 'hugo-PaperMod'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
