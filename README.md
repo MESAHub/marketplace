@@ -25,3 +25,6 @@ hugo server
 ```
 
 and open `localhost:1313` in your browser.
+
+This site will automatically deploy to GitHub Pages
+with each update, through a GitHub action.
