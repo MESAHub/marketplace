@@ -1,0 +1,16 @@
+# MESA Marketplace
+
+The MESA Marketplace is a collection of
+educational resources, summer school links, inlists, and add-ons for the
+[Modules in Stellar Astrophysics (MESA)](https://mesastar.org) code.
+
+The MESA Marketplace was originally hosted on Frank Timmes' website https://cococubed.com
+and was migrated to GitHub Pages in 2025.
+
+We now have a
+[MESA Zenodo Community](https://zenodo.org/communities/mesa/records?q=&l=list&p=1&s=10)
+as the prefered way of sharing MESA inlists and projects.
+Check it out! The inlists and add-ons shared shared on the Marketplace are generally from before 2022.
+But this website still serves as a useful collection of
+pre-Zenodo and pre-GitHub migration information, and has many useful links to
+educational videos, blog posts, and MESA summer schools.
