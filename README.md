@@ -14,3 +14,14 @@ Check it out! The inlists and add-ons shared shared on the Marketplace are gener
 But this website still serves as a useful collection of
 pre-Zenodo and pre-GitHub migration information, and has many useful links to
 educational videos, blog posts, and MESA summer schools.
+
+## Building the website
+
+To build the website locally, make sure you have installed `hugo` (e.g. `brew install hugo`),
+and then do:
+
+```console
+hugo server
+```
+
+and open `localhost:1313` in your browser.
