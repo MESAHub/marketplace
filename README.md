@@ -9,7 +9,7 @@ and was migrated to GitHub Pages in 2025.
 
 We now have a
 [MESA Zenodo Community](https://zenodo.org/communities/mesa/records?q=&l=list&p=1&s=10)
-as the prefered way of sharing MESA inlists and projects.
+as the preferred way of sharing MESA inlists and projects.
 Check it out! The inlists and add-ons shared shared on the Marketplace are generally from before 2022.
 But this website still serves as a useful collection of
 pre-Zenodo and pre-GitHub migration information, and has many useful links to

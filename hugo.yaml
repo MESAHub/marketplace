@@ -20,9 +20,9 @@ menu:
     name: Home
     url: /
     weight: 10
-  - identifier: addons
+  - identifier: add-ons
     name: Add-ons
-    url: addons/
+    url: add-ons/
     weight: 20
   - identifier: inlists
     name: Inlists
