@@ -28,3 +28,13 @@ and open `localhost:1313` in your browser.
 
 This site will automatically deploy to GitHub Pages
 with each update, through a GitHub action.
+
+## Adding new content
+
+To add new content, just do, e.g.
+
+```console
+hugo new content content/guides/my-first-guide.md
+```
+
+to create a new Markdown page. Then edit the file with your content. Make sure to change `draft = false` in the file's header for it to get published.
