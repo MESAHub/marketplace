@@ -42,7 +42,7 @@ date: 2025-05-16T01:48:28-04:00
 
 | Year | Lecturer | Title | MESA version | Get |
 | -----|----------|-------|--------------|-----|
-| 2022 | Meredith Joyce & Sunny Wong | Beyond Inlists | 22.05.1 | [Get](https://zenodo.org/records/7082567) |
+| 2022 | Meridith Joyce & Sunny Wong | Beyond Inlists | 22.05.1 | [Get](https://zenodo.org/records/7082567) |
 | 2022 | Bill Wolf & Ebraheem Farag | Recurrent Novae and Steady Burning | 22.05.1 | [Doc](https://billwolf.space/projects/mesa-ss-2022) [Get](https://doi.org/10.5281/zenodo.7062026) |
 | 2022 | Pablo Marchant | Mass Transfer in X-ray Binaries | 22.05.1 | [Get](https://orlox.github.io/mesa2022_hmxb/) |
 | 2022 | Anne Thoul & Morgan Chidester | Fun and Games with Convective Boundaries | 22.05.1 | [Get](https://doi.org/10.5281/zenodo.7082536) |
