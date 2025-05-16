@@ -10,7 +10,7 @@ pagination:
 
 params:
   homeInfoParams:
-    Title: "MESA Marketplace Latest Posts"
+    Title: "MESA Marketplace Latest Posts:"
 
 menu:
   main:
