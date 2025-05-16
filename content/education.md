@@ -1,7 +1,6 @@
 ---
 title: "Education"
 date: 2025-05-16T01:48:28-04:00
-draft: false
 ---
 
 ## Textbooks

@@ -2,7 +2,6 @@
 title: "Times in the history files"
 date: 2016-09-03T10:49:28-04:00
 author: Bill Wolf
-draft: false
 ---
 
 Just a reminder -- the mesa/star history files (e.g., `LOGS/star.log`) contain a line for each step,

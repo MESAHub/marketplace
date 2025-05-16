@@ -2,7 +2,6 @@
 title: "Introduction to MesaScript version 2014 and version 2015"
 date: 2015-03-01T10:49:28-04:00
 author: Bill Wolf
-draft: false
 ---
 
 # Documentation

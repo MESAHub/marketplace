@@ -1,8 +1,7 @@
 ---
-title: "Stampede"
+title: "Running MESA on Stampede2"
 date: 2019-03-01T10:49:28-04:00
 author: Matt A. Wood
-draft: false
 ---
 
 # Steps to Running MESA on TACC Stampede2

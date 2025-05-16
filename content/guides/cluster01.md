@@ -2,7 +2,6 @@
 title: "Installing and Running MESA on a Cluster"
 author: Josiah Schwabe
 date: 2019-03-01T10:40:28-04:00
-draft: false
 ---
 
 ## Table of Contents

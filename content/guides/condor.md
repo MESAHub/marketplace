@@ -2,7 +2,6 @@
 title: "Running MESA on Condor"
 date: 2017-02-16T10:49:28-04:00
 author: Earl Bellinger
-draft: false
 ---
 
 Active condor user here. I wrote a script called `maybe_sub.sh` that submits jobs to condor to run in parallel if condor is available (hence 'maybe'). You can see it here:  

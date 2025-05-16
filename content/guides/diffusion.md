@@ -2,7 +2,6 @@
 title: "Diffusion Update for Degeneracy"
 date: 2017-01-26T10:49:28-04:00
 author: Evan Bauer
-draft: false
 ---
 
 * [2017 Update notice](https://sourceforge.net/p/mesa/mailman/message/35626929/)

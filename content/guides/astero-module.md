@@ -2,7 +2,6 @@
 title: "Overview of the `astero` module"
 date: 2016-09-05T10:49:28-04:00
 author: Warrick Ball
-draft: false
 ---
 
 # The `astero` module

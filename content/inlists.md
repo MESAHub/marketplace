@@ -1,7 +1,6 @@
 ---
 title: "Inlists"
 date: 2022-10-15T10:49:28-04:00
-draft: false
 ---
 
 [Share your inlists](https://zenodo.org/communities/mesa/) after publication!

@@ -1,7 +1,6 @@
 ---
 title: "Add-ons"
 date: 2022-10-15T10:48:28-04:00
-draft: false
 ---
 
 [MESA](https://mesastar.org) add-ons written by the

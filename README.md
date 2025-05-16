@@ -37,4 +37,4 @@ To add new content, just do, e.g.
 hugo new content content/guides/my-first-guide.md
 ```
 
-to create a new Markdown page. Then edit the file with your content. Make sure to change `draft = false` in the file's header for it to get published.
+to create a new Markdown page. Then edit the file with your content. Make sure to remove `draft = false` in the file's header for it to get published.

@@ -2,7 +2,6 @@
 title: "Structuring inlists for running many MESA models"
 date: 2017-01-30T10:49:28-04:00
 author: Rob Farmer
-draft: false
 ---
 
 ## This is a guide for how to set up inlists when you wish to run many (100's, maybe more) MESA models.
