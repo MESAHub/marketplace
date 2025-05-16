@@ -11,6 +11,7 @@ params:
       Welcome! The MESA Marketplace is a collection of educational resources and shared project files for the [Modules for Stellar Astrophysics (MESA)](https://mesastar.org) code.
       Also check out the [MESA Zenodo Community](https://zenodo.org/communities/mesa), the preferred place to share your project files.
       This website contains summer school links as well as resources shared prior to 2022/Zenodo.
+      Please check Zenodo for the latest up-to-date community-shared resources.
   socialIcons:
     - name: github
       title: View Source on Github
@@ -38,9 +39,5 @@ menu:
     name: Guides
     url: guides/
     weight: 50
-  - identifier: search
-    name: Search
-    url: search/
-    weight: 60
   - name: MESA
     url: https://mesastar.org/
