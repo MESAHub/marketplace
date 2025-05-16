@@ -4,9 +4,13 @@ title: MESA Marketplace
 copyright: "© [The MESA Team](https://mesastar.org)"
 theme: hugo-PaperMod
 
+pagination:
+  disableAliases: false
+  pagerSize: 100
+
 params:
   homeInfoParams:
-    Title: "MESA Marketplace Latest"
+    Title: "MESA Marketplace Latest Posts"
 
 menu:
   main:
