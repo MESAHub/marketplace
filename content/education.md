@@ -26,17 +26,17 @@ date: 2025-05-16T01:48:28-04:00
 - [2025](https://mesa-leuven.4d-star.org/),
 [2024](https://maygpedersen.github.io/mesa-down-under-2024/),
 [2023](https://mesastar.org/summer-school-2023/),
-[2022](https://mesahub.github.io/summer-school-2022/),
-[2021](https://cococubed.com/mesa_summer_schools/mesa_summer_school_2021/),
-[2020](https://cococubed.com/mesa_summer_schools/mesa_summer_school_2020/),
-[2019](https://cococubed.com/mesa_summer_schools/mesa_summer_school_2019/),
-[2018](https://cococubed.com/mesa_summer_schools/mesa_summer_school_2018/),
-[2017](https://cococubed.com/mesa_summer_schools/mesa_summer_school_2017/),
-[2016](https://cococubed.com/mesa_summer_schools/mesa_summer_school_2016/),
-[2015](https://cococubed.com/mesa_summer_schools/mesa_summer_school_2015/),
-[2014](https://cococubed.com/mesa_summer_schools/mesa_summer_school_2014/),
-[2013](https://cococubed.com/mesa_summer_schools/mesa_summer_school_2013/),
-[2012](https://cococubed.com/mesa_summer_schools/mesa_school_website/mesa_summer_school/).
+[2022](https://mesastar.org/summer-school-2022/),
+[2021](https://mesastar.org/summer-school-2021/),
+[2020](https://mesastar.org/summer-school-2020/),
+[2019](https://mesastar.org/summer-school-2019/),
+[2018](https://mesastar.org/summer-school-2018/),
+[2017](https://mesastar.org/summer-school-2017/),
+[2016](https://mesastar.org/summer-school-2016/),
+[2015](https://mesastar.org/summer-school-2015/),
+[2014](https://mesastar.org/summer-school-2014/),
+[2013](https://mesastar.org/summer-school-2013/),
+[2012](https://mesastar.org/summer-school-2012/).
 
 ## MESA Summer School material:
 
