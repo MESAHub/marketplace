@@ -10,7 +10,11 @@ pagination:
 
 params:
   homeInfoParams:
-    Title: "MESA Marketplace Latest Posts:"
+    Title: ""
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/mesahub/marketplace"
 
 menu:
   main:
